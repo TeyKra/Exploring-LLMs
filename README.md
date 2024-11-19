@@ -1,5 +1,6 @@
-# Lab 2 : Tokenization and Text Generation with more complexity
+# Lab 3: Tokenization and Text Generation with Pre-Trained Language Models
 
 ## Overview
 
-Building on TP1 with further complexity, this lab exercise is designed to provide hands-on experience with pre-trained language models by exploring text tokenization and generation. You will gain insights into the process of tokenization, data normalization, and lemmatization, while also building a chatbot prototype capable of responding to user queries.
+Building on previous exercises, this lab is designed to deepen your understanding of pre-trained language models by exploring text tokenization and generation with Hugging Face's Transformers library. You will learn to manipulate pre-trained models such as GPT-2, experiment with different generation parameters, and analyze their impact on text generation.
+
