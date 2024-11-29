@@ -12,3 +12,12 @@ This repository contains four branches, each dedicated to a specific DevOps proj
 
 3. **LLM - TP3:**
     - Dive deeper into text generation by experimenting with advanced parameters such as temperature and top_k, and analyze their effects on output creativity and coherence while using a pre-trained language model like GPT-2.
+
+4. **LLM - TP4:**
+    - TODO
+
+5. **LLM - TP5:**
+    - 5. **LLM - TP5:**
+    - Learn the principles of pre-training and fine-tuning language models by first training a simple model, then fine-tuning BERT for binary text classification, such as identifying positive or negative reviews, while gaining hands-on experience in dataset adaptation, text processing, and performance evaluation.
+
+
