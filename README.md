@@ -2,7 +2,7 @@
 
 This repository contains four branches, each dedicated to a specific LLM lab:
 
-## Branches and Projects
+## Branches and Labs
 
 1. **LLM - TP1:**
     - Manipulate a pre-trained language model to understand how it generates text and explore the process of tokenization and text generation.
