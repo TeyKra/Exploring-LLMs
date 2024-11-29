@@ -17,7 +17,6 @@ This repository contains four branches, each dedicated to a specific DevOps proj
     - TODO
 
 5. **LLM - TP5:**
-    - 5. **LLM - TP5:**
     - Learn the principles of pre-training and fine-tuning language models by first training a simple model, then fine-tuning BERT for binary text classification, such as identifying positive or negative reviews, while gaining hands-on experience in dataset adaptation, text processing, and performance evaluation.
 
 
