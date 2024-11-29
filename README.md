@@ -1,6 +1,6 @@
 # LLM
 
-This repository contains four branches, each dedicated to a specific DevOps project:
+This repository contains four branches, each dedicated to a specific LLM lab:
 
 ## Branches and Projects
 
